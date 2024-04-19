@@ -1,1 +1,11 @@
 Iniciando tutorial do vscode
+ 
+
+O que é vscode? 
+
+O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft.
+
+
+Instalação 
+
+A instalação no Windows é relativamente simples, basta acessar o site oficial do Visual Studio Code e fazer o Download da sua última versão, clicando no botão "Download for Windows"
