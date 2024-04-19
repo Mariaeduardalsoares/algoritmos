@@ -6,3 +6,6 @@ Python é uma linguagem de programação de uso geral. Isso significa que é uma
 O Python é uma linguagem geral, que não é especializada em nenhum problema específico.
 Essa versatilidade e a facilidade de uso para pessoas iniciantes, fez com que se tornasse uma das linguagens mais comuns atualmente.
 Guido Van Rossum, um programador de computador na Holanda, criou o Python. Ele começou em 1989 no Centrum Wiskunde & Informatica (CWI), inicialmente como um projeto de hobby para se manter ocupado durante o Natal.
+
+Download
+Acesse a página oficial para realizar o download do instalador do Python na versão 3.8. Vá até a pasta na qual foi feito o download do instalador do Python 3.8. Clique com o botão direito em cima do instalador. Clique na opção “Executar como Administrador”
