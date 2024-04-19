@@ -9,3 +9,7 @@ O Visual Studio Code (VS Code) é um editor de código de código aberto desenvo
 Instalação 
 
 A instalação no Windows é relativamente simples, basta acessar o site oficial do Visual Studio Code e fazer o Download da sua última versão, clicando no botão "Download for Windows"
+
+Como funciona 
+
+Uma característica fundamental do VS Code é o suporte a uma ampla gama de linguagens de programação. Ele possui recursos embutidos para depuração, realce de sintaxe e conclusão automática de código, adaptados para várias linguagens populares
