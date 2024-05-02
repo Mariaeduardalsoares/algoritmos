@@ -4,6 +4,11 @@ programa {
 
   real distancia, velocidade, tempo
   real inicio
+  cadeia nome
+   
+    escreva("qual o nome do motorista?")
+    leia(nome)
+
    
    
     escreva("Qual a distância da viagem em quilômetros: ")
